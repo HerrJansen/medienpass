@@ -1,0 +1,7 @@
+{
+  "name": "medienpass-api",
+  "version": "1.0.0",
+  "description": "Azure Functions API für Medienpass – Gymnasium Thomaeum",
+  "main": "index.js",
+  "license": "MIT"
+}
